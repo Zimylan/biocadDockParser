@@ -11,11 +11,11 @@ doc_tables = doc.tables
 
 print(len(doc_tables))
 
-table_template = {
-    "rows" : ,
-    "columns" : ,
-
-}
+# table_template = {
+#     "rows" : ,
+#     "columns" : ,
+#
+# }
 
 to_json = {
     "table1" : doc_tables[0],
